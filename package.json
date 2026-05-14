@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "crud",
+=======
+  "name": "api-pratice",
+>>>>>>> 09eb65da18f128782fbae72eacff8f176ae91dec
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
